@@ -1,0 +1,24 @@
+# Virtual environments
+.venv/
+
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[oc]
+*.egg-info/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+
+# Agent/tooling files (no relevantes para el reto)
+.agents/
+.scratch/
+docs/
+CLAUDE.md
+skills-lock.json
